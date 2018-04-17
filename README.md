@@ -1,4 +1,4 @@
 # hello-world
-Github Tutorial
+Github Tutorial (Hello World)
 
 Hi Chris here testing out Github!
